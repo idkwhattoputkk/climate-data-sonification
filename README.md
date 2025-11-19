@@ -198,6 +198,12 @@ README.md                     # Project documentation
 
 If everything is configured correctly, you will see the moving cursor in Processing and hear a continuous sound that evolves according to the weather data and your interactions.
 
+### 7.4 Demo video
+
+- **Demo video:** [Watch demo (YouTube)](https://youtu.be/i1GqkIZ5Tnw)
+
+Watch the video to see the system in action and to confirm the visual-sonic mapping described above.
+
 ---
 
 ## 8. Design Decisions & Limitations
